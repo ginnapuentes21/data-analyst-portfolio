@@ -3,6 +3,14 @@
 Bienvenido a mi portafolio de proyectos de análisis de datos.  
 Aquí presento proyectos enfocados en limpieza de datos, análisis exploratorio y visualización.
 
+## Sobre mi
+
+Soy una profesional en transición hacia el análisis de datos con experiencia en entornos regulados de la industria farmacéutica. Me interesa transformar datos en información útil para la toma de decisiones mediante herramientas como SQL, Python y Power BI.
+
+Tengo experiencia en limpieza de datos, análisis exploratorio y visualización, aplicando métodos estadísticos para identificar patrones y generar insights accionables.
+
+Actualmente desarrollo proyectos enfocados en análisis de negocio, dashboards y exploración de datos.
+
 ## Herramientas
 - SQL
 - Python
